@@ -1,1 +1,1 @@
-# JediAcademy
+# Jedi Academy
